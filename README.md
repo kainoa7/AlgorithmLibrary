@@ -6,7 +6,7 @@ Welcome to my Algorithm Repository, a comprehensive collection of algorithms dis
 
 # Algorithms Included: 
 1. Stable Matching: The Gale-Shapley Stable Matching Algorithm addresses the Stable Matching Problem, aiming to find a stable matching between two sets of participants based on their preference lists.
-2. . Dijkstra's Algorithm: This classic algorithm efficiently finds the shortest path between nodes in a graph, making it indispensable in network routing and optimization problems.
+2. Dijkstra's Algorithm: This classic algorithm efficiently finds the shortest path between nodes in a graph, making it indispensable in network routing and optimization problems.
 3. Interval Scheduling: This algorithm tackles scheduling tasks within a given time frame to maximize resource utilization, widely applied in job scheduling and project management.
 4. Interval Partitioning: Interval partitioning algorithm addresses the task of scheduling within a given time frame to minimize resource conflicts.
 5. Merge and count algorithm provides a solution for counting inversions in an array, essential for sorting and optimization problems.
