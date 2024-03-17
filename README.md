@@ -1,7 +1,7 @@
 # Algorithm Repository Description
 
 # Description
-Welcome to my Algorithm Repository, a comprehensive collection of algorithms discussed in class. This repository serves as a valuable resource for understanding, implementing, and experimenting with various algorithms. Some algorithms include Dijkstra, Interval Partitioning, Interval Scheduling, and Merge and Sort. Each algorithm is organized into its own repository, complete with a detailed README providing insights into its functionality, implementation, and potential applications. 
+Welcome to my Algorithm Repository, a comprehensive collection of algorithms discussed in class. This repository serves as a valuable resource for understanding, implementing, and experimenting with various algorithms. Some algorithms include Stable Matching, Dijkstra, Interval Partitioning, Interval Scheduling, and Merge and Sort. Each algorithm is organized into its own repository, complete with a detailed README providing insights into its functionality, implementation, and potential applications. 
 
 
 # Algorithms Included: 
