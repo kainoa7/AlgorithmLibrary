@@ -15,7 +15,7 @@ Each algorithm resides in its own repository, allowing for easy navigation and i
 
 # How to Use 
 To delve into the details of any specific algorithm, simply click on its corresponding link below: 
-- [Dijkstra's Algorithm] (https://github.com/kainoa7/Dijkstra)
-- [Interval Scheduling] (https://github.com/kainoa7/interval_scheduling)
-- [Interval Partitioning] (https://github.com/kainoa7/interval_partitioning)
-- [Merge and Count] (https://github.com/kainoa7/merge_and_count)
+- [Dijkstra's Algorithm](https://github.com/kainoa7/Dijkstra)
+- [Interval Scheduling](https://github.com/kainoa7/interval_scheduling)
+- [Interval Partitioning](https://github.com/kainoa7/interval_partitioning)
+- [Merge and Count](https://github.com/kainoa7/merge_and_count)
